@@ -103,7 +103,7 @@ rasa test nlu --config configs/config-xlm-mult.yml --cross-validation --runs 1 -
 </p>
 </details>
 
-Alternatively you can train all models using the script
+Alternatively you can test all models using the script
 ```bash
 ./run-all.sh
 
