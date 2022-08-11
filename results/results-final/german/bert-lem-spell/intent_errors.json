@@ -1,0 +1,266 @@
+[
+  {
+    "text": "Nicht unbedingt, eigentlich in der mittleren.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Ja, ich will gerne in, in Weitmar dann am Dienstag griechisch essen gehen.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.6826513409614563
+    }
+  },
+  {
+    "text": "Nicht wichtig.",
+    "intent": "negate",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Andere Möglichkeiten.",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Bitte wiederholen.",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9784500002861023
+    }
+  },
+  {
+    "text": "Beliebig.",
+    "intent": "provide",
+    "intent_prediction": {
+      "name": "uninspiring",
+      "confidence": 0.40836039185523987
+    }
+  },
+  {
+    "text": "Nicht wichtig.",
+    "intent": "provide",
+    "intent_prediction": {
+      "name": "negate",
+      "confidence": 0.9999982118606567
+    }
+  },
+  {
+    "text": "Ähm, ja, einen anderen Preis.",
+    "intent": "provide",
+    "intent_prediction": {
+      "name": "accept_provide",
+      "confidence": 0.9759652614593506
+    }
+  },
+  {
+    "text": "Äh, ja. In der mittleren Preisklasse bitte.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9827309250831604
+    }
+  },
+  {
+    "text": "Ja, dann möchte ich gerne 20 Euro ausgeben, und in der Mittagspause so um 1, 13 Uhr in der Innenstadt chinesisch essen gehen.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Nö.",
+    "intent": "negate",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9999849796295166
+    }
+  },
+  {
+    "text": "Kann ich, hallo, zurück?",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9307718276977539
+    }
+  },
+  {
+    "text": "Das versteh ich jetzt nicht. Wieso gibt es da kein passendes Restaurant, wenn man Geflügel essen möchte?",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9999992847442627
+    }
+  },
+  {
+    "text": "Das ist egal.",
+    "intent": "provide",
+    "intent_prediction": {
+      "name": "accept",
+      "confidence": 0.9295548796653748
+    }
+  },
+  {
+    "text": "Ja, ich möchte Geflügel essen.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "accept",
+      "confidence": 0.9186378717422485
+    }
+  },
+  {
+    "text": "Ne.",
+    "intent": "negate",
+    "intent_prediction": {
+      "name": "uninspiring",
+      "confidence": 0.5066431164741516
+    }
+  },
+  {
+    "text": "Ach leck mich doch am Arsch, zurück.",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9014250040054321
+    }
+  },
+  {
+    "text": "Ähm, wo ist das Restaurant)?",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9999910593032837
+    }
+  },
+  {
+    "text": "Nix.",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9704768657684326
+    }
+  },
+  {
+    "text": "Korrekt.",
+    "intent": "accept",
+    "intent_prediction": {
+      "name": "negate",
+      "confidence": 0.8979731798171997
+    }
+  },
+  {
+    "text": "Wau. Ja.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "accept",
+      "confidence": 0.9996100068092346
+    }
+  },
+  {
+    "text": "Ja ich möchte gerne Ente essen, und zwar Montag.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.742128312587738
+    }
+  },
+  {
+    "text": "Nope.",
+    "intent": "negate",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9978187084197998
+    }
+  },
+  {
+    "text": "Fick dich.",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9701079726219177
+    }
+  },
+  {
+    "text": "Nichts.",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9398660659790039
+    }
+  },
+  {
+    "text": "Können sie mir ein anderes Restaurant vorschlagen?",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Mist.",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9994791150093079
+    }
+  },
+  {
+    "text": "Nein Montag.",
+    "intent": "provide",
+    "intent_prediction": {
+      "name": "negate",
+      "confidence": 0.8929953575134277
+    }
+  },
+  {
+    "text": "Hmhm.",
+    "intent": "accept",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9999997615814209
+    }
+  },
+  {
+    "text": "Ja im Stadtteil Querenburg, an der Querenburger Strasse.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9999996423721313
+    }
+  },
+  {
+    "text": "Was? Versteh ich nicht.",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9679694175720215
+    }
+  },
+  {
+    "text": "Hä, was?",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.994962215423584
+    }
+  },
+  {
+    "text": "Hm schwierig.",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.999992847442627
+    }
+  }
+]

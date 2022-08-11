@@ -1,0 +1,370 @@
+[
+  {
+    "text": "Not that much.",
+    "intent": "provide",
+    "intent_prediction": {
+      "name": "uninspiring",
+      "confidence": 0.6423314809799194
+    }
+  },
+  {
+    "text": "A lot.",
+    "intent": "provide",
+    "intent_prediction": {
+      "name": "uninspiring",
+      "confidence": 0.8375725150108337
+    }
+  },
+  {
+    "text": "Um, yes, a different price.",
+    "intent": "provide",
+    "intent_prediction": {
+      "name": "accept_provide",
+      "confidence": 0.8988685607910156
+    }
+  },
+  {
+    "text": "Correct.",
+    "intent": "accept",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9963642954826355
+    }
+  },
+  {
+    "text": "Hmmm. Yes fine also at noon. Yes. Yes.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "accept",
+      "confidence": 0.8349837064743042
+    }
+  },
+  {
+    "text": "Yes, Greek.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.5799741148948669
+    }
+  },
+  {
+    "text": "Nope.",
+    "intent": "negate",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Can I, hello, back?",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.5036758184432983
+    }
+  },
+  {
+    "text": "Um, what?",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9622796177864075
+    }
+  },
+  {
+    "text": "Yes please.",
+    "intent": "accept",
+    "intent_prediction": {
+      "name": "accept_provide",
+      "confidence": 0.9052784442901611
+    }
+  },
+  {
+    "text": "Right.",
+    "intent": "accept",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9803242087364197
+    }
+  },
+  {
+    "text": "Yes, Italian.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.6672689914703369
+    }
+  },
+  {
+    "text": "Yes then I can also choose a restaurant, that is a little cheaper.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9926335215568542
+    }
+  },
+  {
+    "text": "Yes, it can easily be 25 euros as well.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.8761864304542542
+    }
+  },
+  {
+    "text": "Not important.",
+    "intent": "negate",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9999996423721313
+    }
+  },
+  {
+    "text": "Oh fuck you too.",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "accept",
+      "confidence": 0.5192280411720276
+    }
+  },
+  {
+    "text": "Please repeat that.",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.987991988658905
+    }
+  },
+  {
+    "text": "I don't get it. Why isn't there a suitable restaurant where you can eat poultry?",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9999997615814209
+    }
+  },
+  {
+    "text": "Not again.",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.999613344669342
+    }
+  },
+  {
+    "text": "Hmhm.",
+    "intent": "accept",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9999947547912598
+    }
+  },
+  {
+    "text": "Indeed.",
+    "intent": "accept",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9999326467514038
+    }
+  },
+  {
+    "text": "Yes, I like the evening.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.781923770904541
+    }
+  },
+  {
+    "text": "Yes, pricewise.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.7014451026916504
+    }
+  },
+  {
+    "text": "Yes, then I would like to spend 20 Euro, and go out for chinese food during the lunchbreak around [1 p.m].(klock) in the city center",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Yes, the price please.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "accept",
+      "confidence": 0.6684852242469788
+    }
+  },
+  {
+    "text": "Bor ey, nope, no.",
+    "intent": "negate",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.7589080929756165
+    }
+  },
+  {
+    "text": "Hm, no.",
+    "intent": "negate",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9999780654907227
+    }
+  },
+  {
+    "text": "Other options.",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9999796152114868
+    }
+  },
+  {
+    "text": "Um, where is the restaurant?",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9999990463256836
+    }
+  },
+  {
+    "text": "Yes, I would.",
+    "intent": "accept",
+    "intent_prediction": {
+      "name": "accept_provide",
+      "confidence": 0.5771458745002747
+    }
+  },
+  {
+    "text": "Yes. I have money.",
+    "intent": "accept",
+    "intent_prediction": {
+      "name": "accept_provide",
+      "confidence": 0.802888035774231
+    }
+  },
+  {
+    "text": "Yes, on Saturday night.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.7980932593345642
+    }
+  },
+  {
+    "text": "Wow. Yes.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "accept",
+      "confidence": 0.4380877614021301
+    }
+  },
+  {
+    "text": "Uh yeah In the middle price range please.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9921683669090271
+    }
+  },
+  {
+    "text": "No I do not want to.",
+    "intent": "negate",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.6429467797279358
+    }
+  },
+  {
+    "text": "Well no.",
+    "intent": "negate",
+    "intent_prediction": {
+      "name": "accept",
+      "confidence": 0.4215705096721649
+    }
+  },
+  {
+    "text": "What? I don't understand.",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9859244227409363
+    }
+  },
+  {
+    "text": "Is there another restaurant you can suggest?",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9869359135627747
+    }
+  },
+  {
+    "text": "Not important.",
+    "intent": "provide",
+    "intent_prediction": {
+      "name": "negate",
+      "confidence": 0.9999986886978149
+    }
+  },
+  {
+    "text": "Hmm, not that expensive then.",
+    "intent": "provide",
+    "intent_prediction": {
+      "name": "uninspiring",
+      "confidence": 0.5315898060798645
+    }
+  },
+  {
+    "text": "That's right.",
+    "intent": "accept",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.8309890031814575
+    }
+  },
+  {
+    "text": "On Tuesday, yes.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.8141211271286011
+    }
+  },
+  {
+    "text": "Yes in Querenburg, on Querenburger Strasse.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9999916553497314
+    }
+  },
+  {
+    "text": "No I would rather not.",
+    "intent": "negate",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9857984781265259
+    }
+  },
+  {
+    "text": "Crap.",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9999914169311523
+    }
+  },
+  {
+    "text": "Hm, tricky.",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9689022302627563
+    }
+  }
+]

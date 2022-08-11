@@ -1,0 +1,266 @@
+[
+  {
+    "text": "City.",
+    "intent": "provide",
+    "intent_prediction": {
+      "name": "negate",
+      "confidence": 0.9166268706321716
+    }
+  },
+  {
+    "text": "Jeden Tag.",
+    "intent": "provide",
+    "intent_prediction": {
+      "name": "accept_provide",
+      "confidence": 0.7668598890304565
+    }
+  },
+  {
+    "text": "Hmhm.",
+    "intent": "accept",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9999973773956299
+    }
+  },
+  {
+    "text": "Ja, und zwar Ente.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "accept",
+      "confidence": 0.75799959897995
+    }
+  },
+  {
+    "text": "Ja, dann möchte ich gerne 20 Euro ausgeben, und in der Mittagspause so um 1, 13 Uhr in der Innenstadt chinesisch essen gehen.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Andere Möglichkeiten.",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Nichts.",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.7914153933525085
+    }
+  },
+  {
+    "text": "Hä, was?",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.998742401599884
+    }
+  },
+  {
+    "text": "Das Restaurant.",
+    "intent": "provide",
+    "intent_prediction": {
+      "name": "uninspiring",
+      "confidence": 0.9999985694885254
+    }
+  },
+  {
+    "text": "Nicht wichtig.",
+    "intent": "provide",
+    "intent_prediction": {
+      "name": "uninspiring",
+      "confidence": 0.6371416449546814
+    }
+  },
+  {
+    "text": "Ich möchte ca 15 Euro ausgeben.",
+    "intent": "provide",
+    "intent_prediction": {
+      "name": "accept_provide",
+      "confidence": 0.9947977066040039
+    }
+  },
+  {
+    "text": "Nein Montag.",
+    "intent": "provide",
+    "intent_prediction": {
+      "name": "negate",
+      "confidence": 0.9999737739562988
+    }
+  },
+  {
+    "text": "Nicht unbedingt, eigentlich in der mittleren.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9999998807907104
+    }
+  },
+  {
+    "text": "Ja, ich möchte abends.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "accept",
+      "confidence": 0.8445278406143188
+    }
+  },
+  {
+    "text": "Ja, ich möchte Geflügel essen.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "accept",
+      "confidence": 0.9751659631729126
+    }
+  },
+  {
+    "text": "Nicht wichtig.",
+    "intent": "negate",
+    "intent_prediction": {
+      "name": "uninspiring",
+      "confidence": 0.6371416449546814
+    }
+  },
+  {
+    "text": "Ach leck mich doch am Arsch, zurück.",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9999918937683105
+    }
+  },
+  {
+    "text": "Ähm, ja, einen anderen Preis.",
+    "intent": "provide",
+    "intent_prediction": {
+      "name": "accept_provide",
+      "confidence": 0.9990237951278687
+    }
+  },
+  {
+    "text": "Wau. Ja.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "accept",
+      "confidence": 0.999704897403717
+    }
+  },
+  {
+    "text": "Hmhm. Ja von mir aus auch mittags. Ja. Ja.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "accept",
+      "confidence": 0.7428381443023682
+    }
+  },
+  {
+    "text": "Ne.",
+    "intent": "negate",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.994181215763092
+    }
+  },
+  {
+    "text": "Ähm, wo ist das Restaurant)?",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Können sie mir ein anderes Restaurant vorschlagen?",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Hm schwierig.",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "accept_provide",
+      "confidence": 0.48199525475502014
+    }
+  },
+  {
+    "text": "Ja, ich will gerne in, in Weitmar dann am Dienstag griechisch essen gehen.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.7614504098892212
+    }
+  },
+  {
+    "text": "Ja, griechisch wäre ganz prima.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.8319242000579834
+    }
+  },
+  {
+    "text": "Ja im Stadtteil Querenburg, an der Querenburger Strasse.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9999998807907104
+    }
+  },
+  {
+    "text": "Kann ich, hallo, zurück?",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.5204659104347229
+    }
+  },
+  {
+    "text": "Fick dich.",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.5214837789535522
+    }
+  },
+  {
+    "text": "Das versteh ich jetzt nicht. Wieso gibt es da kein passendes Restaurant, wenn man Geflügel essen möchte?",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9999991655349731
+    }
+  },
+  {
+    "text": "Äh, ja. In der mittleren Preisklasse bitte.",
+    "intent": "accept_provide",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9951893091201782
+    }
+  },
+  {
+    "text": "Nix.",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "provide",
+      "confidence": 0.9999988079071045
+    }
+  },
+  {
+    "text": "Mist.",
+    "intent": "uninspiring",
+    "intent_prediction": {
+      "name": "accept",
+      "confidence": 0.47138527035713196
+    }
+  }
+]
