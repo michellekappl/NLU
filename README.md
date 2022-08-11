@@ -3,6 +3,7 @@
 ## File Structure
 ### *Rasa*
 - new implementation of Rasa complete with the integration of XLM
+- new custom component "CorrectSpelling" in german and english for spelling correction and lemmatization
 ### *Dataset*
 - BoRis dataset german/english
 - shortened dataset for initial testing
@@ -16,7 +17,6 @@
 ### *Prerequisites:*
  - [Rasa](https://rasa.com/docs/rasa/installation/)
  - [Poetry](https://python-poetry.org/docs/)
-
 
 ### *Different configurations:*
 Use one of the following commands to run our rasa pipeline:
