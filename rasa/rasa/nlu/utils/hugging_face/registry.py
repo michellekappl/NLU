@@ -47,7 +47,7 @@ model_class_dict: Dict[Text, Type[TFPreTrainedModel]] = {
     "gpt": TFOpenAIGPTModel,
     "gpt2": TFGPT2Model,
     "xlnet": TFXLNetModel,
-    "xlm": TFXLMModel, # Currently doesn't work because of a bug in transformers
+    "xlm": TFXLMModel, # Currently not implemented in rasa 3.1
     # library https://github.com/huggingface/transformers/issues/2729
     "distilbert": TFDistilBertModel,
     "roberta": TFRobertaModel,
