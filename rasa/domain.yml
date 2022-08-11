@@ -1,0 +1,25 @@
+version: "3.1"
+
+intents:
+- provide
+- accept
+- negate
+- accept_provide
+- uninspiring
+
+
+entities:
+- foodtype
+- localization
+- logical
+- amount-of-money
+- time
+- date
+- klock
+- field
+- action
+- price
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

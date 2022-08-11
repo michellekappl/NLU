@@ -1,0 +1,58 @@
+[
+  {
+    "name": "amount-of-money",
+    "pattern": "[0-9]*\\s*(D-(M|m)|M)ark"
+  },
+  {
+    "name": "amount-of-money",
+    "pattern": "[0-9]*\\s*(D-(M|m)|M)ark"
+  },
+  {
+    "name": "amount-of-money",
+    "pattern": "[0-9]*\\s*(E|e)uro."
+  },
+  {
+    "name": "amount-of-money",
+    "pattern": "[0-9]*\\s*(E|e)uros."
+  },
+  {
+    "name": "amount-of-money",
+    "pattern": "[0-9]+"
+  },
+  {
+    "name": "amount-of-money",
+    "pattern": "[0-9]+"
+  },
+  {
+    "name": "klock",
+    "pattern": "[0-9]+\\s*(U|u)hr"
+  },
+  {
+    "name": "klock",
+    "pattern": "[0-9]+\\s*(a|p)\\.m"
+  },
+  {
+    "name": "klock",
+    "pattern": "[0-9]+\\s*(a|p)\\.m\\."
+  },
+  {
+    "name": "klock",
+    "pattern": "[0-9]+\\s*(a|p)m"
+  },
+  {
+    "name": "field",
+    "pattern": "(\\bÖffnungszeiten\\b|\\bArt\\ der\\ Küche\\b|\\bRestaurant\\b|\\bPreis\\b|\\bPreisklasse\\b|\\bTageszeit\\b|\\bOrt\\b)"
+  },
+  {
+    "name": "localization",
+    "pattern": "(\\bBochum\\b|\\bWeitmar\\b|\\bInnenstadt\\b|\\bQuerenburg\\b|\\bLinden\\b|\\bGrumme\\b|\\bHamme\\b|\\bWerne\\b|\\bWiemelhausen\\b|\\bLangendreer\\b|\\bZentrum\\b|\\bUni\\-Center\\b|\\bStadtmitte\\b|\\bEhrenfeld\\b|\\bRuhr\\-Universität\\b)"
+  },
+  {
+    "name": "date",
+    "pattern": "(\\b\\(M\\|m\\)ontag\\b|\\b\\(D\\|d\\)ientag\\b|\\b\\(M\\|m\\)ittwoch\\b|\\b\\(D\\|d\\)onnerstag\\b|\\b\\(F\\|f\\)reitag\\b|\\b\\(S\\|s\\)amstag\\b|\\b\\(S\\|s\\)onntag\\b|\\b\\(H\\|h\\)eute\\b|\\b\\(M\\|m\\)orgen\\b)"
+  },
+  {
+    "name": "foodtype",
+    "pattern": "(\\b\\(G\\|g\\)riech\\b|\\b\\(C\\|c\\)hines\\b|\\b\\(I\\|i\\)tali\\b|\\b\\(F\\|f\\)ranzös\\b|\\b\\(D\\|d\\)eutsch\\b|\\b\\(A\\|a\\)siat\\b|\\b\\(S\\|s\\)izilian\\b|\\b\\(A\\|a\\)rgentin\\b|\\b\\(M\\|m\\)exikan\\b|\\b\\(M\\|m\\)editeran\\b|\\b\\(K\\|k\\)orean\\b|\\b\\(I\\|i\\)ndisch\\b|\\bEnte\\b|\\b\\(P\\|p\\)ute\\b|\\b\\(G\\|g\\)eflügel\\b|\\b\\(H\\|h\\)ausmannskost\\b)"
+  }
+]
